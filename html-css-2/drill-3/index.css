@@ -1,0 +1,45 @@
+body {
+    margin: 0;
+    height: 135vh;
+}
+
+body > header {
+    background-color: lightgray;
+    width: 100vw;
+    height: 150px;
+} 
+
+.header-square {
+    background-color: rgb(17, 172, 224);
+    height: 100px;
+    width: 100px;
+    position: relative;
+    top: 30px;
+    left: 30px;
+}
+
+.wordblock {
+    padding: 35px;
+    height: 30vh;
+}
+
+.color1 {
+    background-color: rgb(65, 119, 214);
+    height: 23vh;
+    width: 100%
+}
+.color2 {
+    background-color: rgb(23, 194, 197);
+    height: 23vh;
+    width: 100%
+}
+.color3 {
+    background-color: rgb(22, 224, 82);
+    height: 20vh;
+    width: 100%
+}
+.color4 {
+    background-color: rgb(241, 248, 29);
+    height: 20vh;
+    width: 100%
+}

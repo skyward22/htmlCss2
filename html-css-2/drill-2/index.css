@@ -1,0 +1,61 @@
+
+.one  {
+    background-color: white;
+    height: 200px;
+    width: 1800x;
+    right: 100%;
+    border: solid 5px black;
+    display: flex;  
+    align-items: flex-end;
+    padding-bottom: 2%;
+}
+
+.rectangle1 {
+    background-color: rgb(120, 7, 158);
+    height: 100px;
+    width: 25px;
+}
+
+.rectangle2 {
+    background-color: rgb(63, 123, 3);
+    height: 150px;
+    width: 300px;
+}
+
+.circle {
+    background-color: rgb(35, 209, 215);
+    height: 180px;
+    width: 180px;
+    border-radius: 50%;
+    display: inline-block;
+}
+.two  {
+    background-color: white;
+    margin-top: 20px;
+    border: 5px dotted black;
+    padding: 35px;
+}
+
+.rectangle3 {
+    background-color: rgb(231, 226, 184);
+    height: 150px;
+    width: 100%;
+    box-shadow: 4px 4px;
+}
+
+.three {
+    background-color: white;
+    height: 250px;
+    text-align: center;
+    width: 50%;
+    border: 3px solid lightgray;
+    margin-top: 20px;
+    position: relative;
+    left: 200px;
+}
+.words {
+   color: rgb(19, 19, 214);
+   font-size: 30px;
+   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   padding-top: 70px;
+}
