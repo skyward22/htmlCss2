@@ -14,12 +14,15 @@
     background-color: rgb(120, 7, 158);
     height: 100px;
     width: 25px;
+    position: relative;
+    left: 10px;
 }
 
 .rectangle2 {
     background-color: rgb(63, 123, 3);
     height: 150px;
     width: 300px;
+    margin: 0 50px;
 }
 
 .circle {
